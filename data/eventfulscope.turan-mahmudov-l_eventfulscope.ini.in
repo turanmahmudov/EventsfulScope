@@ -1,0 +1,14 @@
+[ScopeConfig]
+_DisplayName=Eventful Scope
+_Description=This is a EventfulScope scope
+Art=screenshot.png
+Author=Turan Mahmudov
+Icon=icon.png
+
+LocationDataNeeded=true
+
+[Appearance]
+PageHeader.Logo=logo.png
+ForegroundColor=#0066CC
+PageHeader.DividerColor=#0066Cc
+
